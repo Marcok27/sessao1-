@@ -1,5 +1,4 @@
 # sessao1-
-Aqui está o modelo estruturado para o GitHub focado na **Sessão 1**. Este conteúdo demonstra competências em auditoria de segurança, coleta de metadados do sistema operacional Linux e inspeção profunda de arquivos de configuração e privilégios críticos.
 
 ---
 
