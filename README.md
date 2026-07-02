@@ -62,7 +62,7 @@ Inspeção do diretório responsável pela persistência de logs de auditoria, a
 
 ---
 
-## 📊 5. Geração Automatizada do Relatório de Auditoria Final
+## 5. Geração Automatizada do Relatório de Auditoria Final
 
 Consolidação de todos os dados coletados nos passos anteriores em um único script de output contínuo para documentação formal.
 
